@@ -1,2 +1,3 @@
-This is a Text File
-It has been added it to the Test Repository
+*This was a Text File
+It was added to the Test Repository
+It became newFile.md
